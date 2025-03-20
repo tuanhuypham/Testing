@@ -1,0 +1,234 @@
+﻿@{
+    ViewBag.Title = "Home page";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Bootstrap E-commerce Templates</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <!--[if ie]><meta content='IE=8' http-equiv='X-UA-Compatible'/><![endif]-->
+    <!-- bootstrap -->
+    <link href="~/content/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/content/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="~/content/themes/css/bootstrappage.css" rel="stylesheet" />
+    <!-- global styles -->
+    <link href="~/content/themes/css/flexslider.css" rel="stylesheet" />
+    <link href="~/content/themes/css/main.css" rel="stylesheet" />
+    <!-- scripts -->
+    <script src="~/content/themes/js/jquery-1.7.2.min.js"></script>
+    <script src="~/content/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/content/themes/js/superfish.js"></script>
+    <script src="~/content/themes/js/jquery.scrolltotop.js"></script>
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+
+</head>
+<body>
+    <div id="top-bar" class="container">
+        <div class="row">
+            <div class="span4">
+                <a href="@Url.Action("Index","Home")" class="logo pull-left">
+                    <img src="~/Content/themes/images/logo.png" class="site_logo" alt="">
+                </a>
+            </div>
+            <div class="span8">
+                <div class="account pull-right">
+                    <ul class="user-menu">
+                        <li><a class="bold-text-edit" href="@Url.Action("Index","Home")">Home</a></li>
+                        @if (Session["Username"] != null)
+                        {
+                            <li><a class="bold-text-edit" href="@Url.Action("ShoppingCart","Home")">Shopping Cart</a></li>
+                            <li class="user-info-edit menu-item">
+                                <p class="">👤 @Session["Username"]</p>
+                                <div class="dropdown-content drop-menu">
+                                    <a href="@Url.Action("My_Account","Home")">My Account</a>
+                                    <a href="@Url.Action("PurchaseOder","Home")">Purchase Order</a>
+                                    <a href="@Url.Action("LogOut","Home")">Log Out</a>
+                                </div>
+                            </li>
+                        }
+                        else
+                        {
+                            <li><a class="bold-text-edit" href="@{ Session["RedirectUrl"] = Url.Action("ShoppingCart","Home"); }@Url.Action("Login","Home")">Shopping Cart</a></li>
+                            <li><a class="bold-text-edit" href="@{ Session["RedirectUrl"] = Url.Action("Index","Home"); }@Url.Action("Login","Home")">Log In</a></li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="wrapper" class="container">
+        <section class="navbar main-menu">
+            <div class="navbar-inner main-menu">
+                <nav id="menu" class="pull-left">
+                    <ul>
+                        <li><a href="@Url.Action("Dress","Home")">Dress</a></li>
+                        <li><a href="@Url.Action("Sexy_Nightgown","Home")">Sexy Nightgown</a></li>
+                        <li><a href="@Url.Action("Hot_Products","Home")">Hot Products</a></li>
+                        <li><a href="@Url.Action("Best_Seller_Products","Home")">Best Seller Products</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </section>
+        <section class="header_text sub header_text-edit-layout">
+            <img class="pageBanner" src="~/Content/themes/images/pageBanner.png" alt="New products">
+
+        </section>
+        @RenderBody()
+
+        <section id="footer-bar">
+            <div class="row">
+                <div class="span3">
+                    <h4>Navigation</h4>
+                    <ul class="nav">
+                        <li><a href="@Url.Action("Index","Home")">Home</a></li>
+                        <li><a href="./index.html">Homepage</a></li>
+                        <li><a href="./about.html">About Us</a></li>
+                        <li><a href="./contact.html">Contac Us</a></li>
+                        <li><a href="./cart.html">Your Cart</a></li>
+                        <li><a href="@Url.Action("Login","Home")">Login</a></li>
+                    </ul>
+                </div>
+                <div class="span4">
+                    <h4>My Account</h4>
+                    <ul class="nav">
+                        <li><a href="#">My Account</a></li>
+                        <li><a href="#">Order History</a></li>
+                        <li><a href="#">Wish List</a></li>
+                        <li><a href="#">Newsletter</a></li>
+                    </ul>
+                </div>
+                <div class="span5">
+                    <p class="logo"><img src="~/Content/themes/images/logo.png" class="site_logo" alt=""></p>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. the  Lorem Ipsum has been the industry's standard dummy text ever since the you.</p>
+                    <br />
+                    <span class="social_icons">
+                        <a class="facebook" href="#">Facebook</a>
+                        <a class="twitter" href="#">Twitter</a>
+                        <a class="skype" href="#">Skype</a>
+                        <a class="vimeo" href="#">Vimeo</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+        <section id="copyright">
+            <span>Copyright 2013 bootstrappage template  All right reserved.</span>
+        </section>
+    </div>
+<script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const loginForm = document.querySelector('.form-login');
+            const registerForm = document.querySelector('.form-register');
+            const registerLink = document.getElementById('registerLink');
+            const loginLink = document.getElementById('loginLink');
+
+            registerLink.addEventListener('click', function (event) {
+                event.preventDefault();
+                loginForm.parentElement.classList.add('hidden');
+                registerForm.parentElement.classList.remove('hidden');
+            });
+
+            loginLink.addEventListener('click', function (event) {
+                event.preventDefault();
+                registerForm.parentElement.classList.add('hidden');
+                loginForm.parentElement.classList.remove('hidden');
+            });
+        });
+
+        //
+
+        function showBestSeller() {
+            // Ẩn danh sách sản phẩm hiện tại
+            document.getElementById("productList").style.display = "none";
+            // Hiển thị danh sách sản phẩm Best Seller
+            // (Bạn cần lấy danh sách sản phẩm Best Seller từ dữ liệu hoặc server)
+        }
+
+        function showHotProduct() {
+            // Ẩn danh sách sản phẩm hiện tại
+            document.getElementById("productList").style.display = "none";
+            // Hiển thị danh sách sản phẩm Hot Product
+            // (Bạn cần lấy danh sách sản phẩm Hot Product từ dữ liệu hoặc server)
+        }
+
+
+        $(function () {
+            $('#myTab a:first').tab('show');
+            $('#myTab a').click(function (e) {
+                e.preventDefault();
+                $(this).tab('show');
+            })
+        })
+        $(document).ready(function () {
+            $('.thumbnail').fancybox({
+                openEffect: 'none',
+                closeEffect: 'none'
+            });
+
+            $('#myCarousel-2').carousel({
+                interval: 2500
+            });
+        });
+
+        document.addEventListener("DOMContentLoaded", function () {
+            // Get your button by its id
+            var addToCartButton = document.getElementById('addToCartButton');
+
+            // Add click event listener
+            addToCartButton.addEventListener('click', function (event) {
+                event.preventDefault(); // Prevent the default anchor behavior
+                var form = document.getElementById('addToCartForm');
+                form.submit(); // Submit the form
+            });
+        });
+        //
+        function selectAllCheckboxes() {
+            // Lấy tất cả các checkbox trên trang
+            var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+
+            // Duyệt qua tất cả các checkbox và set thuộc tính 'checked' thành true
+            checkboxes.forEach(function(checkbox) {
+                checkbox.checked = true;
+            });
+        }
+        function toggleCheckboxes(button) {
+            // Lấy tất cả các checkbox trên trang
+            var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            var selectAll = button.textContent === "Select All";
+
+            // Duyệt qua tất cả các checkbox và set thuộc tính 'checked' thành true hoặc false
+            checkboxes.forEach(function(checkbox) {
+                checkbox.checked = selectAll;
+            });
+
+            // Thay đổi văn bản của nút
+            button.textContent = selectAll ? "Deselect All" : "Select All";
+        }
+        //
+        function validateCheckboxes() {
+            var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            var atLeastOneChecked = false;
+            for (var i = 0; i < checkboxes.length; i++) {
+                if (checkboxes[i].checked) {
+                    atLeastOneChecked = true;
+                    break;
+                }
+            }
+            if (!atLeastOneChecked) {
+                alert("You have not selected a product to pay!");
+                return false;
+            }
+            return true;
+        }
+        
+    </script>
+<script src="themes/js/common.js"></script>
+</body>
+
+</html>

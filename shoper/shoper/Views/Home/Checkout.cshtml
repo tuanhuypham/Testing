@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Checkout Success";
+}
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="jumbotron">
+                    <h1>Payment completed successfully!</h1>
+                    <p>Thank you @Session["Username"] for purchasing our products.</p>
+                    <p>Total payment amount: $@ViewBag.TotalAmount</p>
+                    <div class="control-button-checkout">
+                        <form action="/" method="post">
+                            <button formaction="@Url.Action("Index", "Home")" type="submit" class="">Continue</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

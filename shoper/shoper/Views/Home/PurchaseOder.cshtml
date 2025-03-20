@@ -1,0 +1,41 @@
+﻿@model List<shoper.Models.paymentorderdetail>
+
+@{
+    ViewBag.Title = "Purchase History";
+   
+}
+
+<div class="container">
+    <section class="header_text_edit">
+        <h4><span>Purchase History</span></h4>
+    </section>
+    @if (Model != null && Model.Count > 0)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Total amount</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="img-cart img-purchase"><img class="" alt=""  src="~/Content/themes/images/ladies/@(item.ProductID.ToString() + ".jpg")"></td>
+                        <td>@item.Quantity</td>
+                        <td>$@item.UnitPrice</td>
+                        <td>$@(item.Quantity * item.UnitPrice)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Không có dữ liệu.</p>
+    }
+</div>
+

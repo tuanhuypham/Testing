@@ -1,0 +1,26 @@
+﻿@model List<shoper.Models.Product>
+@{
+    ViewBag.Title = "Dress";
+}
+<section class="header_text_edit">
+    <h4><span>Dress</span></h4>
+</section>
+<div class="">
+    <div class="">
+        <ul class="thumbnails listing-products">
+            @foreach (var product in Model)
+            {
+                <li class="span3">
+                    <div class="product-box">
+                        <a href='@Url.Action("Product_Detail", "Home", new { id = product.ProductID})'>
+                            <img alt="" src="~/Content/themes/images/ladies/@(product.ProductID).jpg">
+                        </a><br />
+                        <a href="product_detail.html" class="title">@product.ProductName</a><br />
+                        <a href="#" class="category">@product.Description</a>
+                        <p class="price">$@product.Price</p>
+                    </div>
+                </li>
+            }
+        </ul>
+    </div>
+</div>

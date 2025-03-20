@@ -1,0 +1,492 @@
+D:\Project-17\shoper\shoper\bin\shoper.dll.config
+D:\Project-17\shoper\shoper\bin\shoper.dll
+D:\Project-17\shoper\shoper\bin\shoper.pdb
+D:\Project-17\shoper\shoper\bin\roslyn\csc.exe
+D:\Project-17\shoper\shoper\bin\roslyn\csc.exe.config
+D:\Project-17\shoper\shoper\bin\roslyn\csc.rsp
+D:\Project-17\shoper\shoper\bin\roslyn\csi.exe
+D:\Project-17\shoper\shoper\bin\roslyn\csi.exe.config
+D:\Project-17\shoper\shoper\bin\roslyn\csi.rsp
+D:\Project-17\shoper\shoper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project-17\shoper\shoper\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project-17\shoper\shoper\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project-17\shoper\shoper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project-17\shoper\shoper\bin\roslyn\System.AppContext.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Collections.Immutable.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Console.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.IO.Compression.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Security.AccessControl.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Security.Claims.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.ValueTuple.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.dll
+D:\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project-17\shoper\shoper\bin\roslyn\vbc.exe
+D:\Project-17\shoper\shoper\bin\roslyn\vbc.exe.config
+D:\Project-17\shoper\shoper\bin\roslyn\vbc.rsp
+D:\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe
+D:\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe.config
+D:\Project-17\shoper\shoper\bin\Antlr3.Runtime.dll
+D:\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project-17\shoper\shoper\bin\Microsoft.Web.Infrastructure.dll
+D:\Project-17\shoper\shoper\bin\Newtonsoft.Json.dll
+D:\Project-17\shoper\shoper\bin\System.Web.Helpers.dll
+D:\Project-17\shoper\shoper\bin\System.Web.Mvc.dll
+D:\Project-17\shoper\shoper\bin\System.Web.Optimization.dll
+D:\Project-17\shoper\shoper\bin\System.Web.Razor.dll
+D:\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.dll
+D:\Project-17\shoper\shoper\bin\System.Web.WebPages.dll
+D:\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.dll
+D:\Project-17\shoper\shoper\bin\WebGrease.dll
+D:\Project-17\shoper\shoper\bin\System.Web.Helpers.xml
+D:\Project-17\shoper\shoper\bin\System.Web.Mvc.xml
+D:\Project-17\shoper\shoper\bin\System.Web.Optimization.xml
+D:\Project-17\shoper\shoper\bin\System.Web.Razor.xml
+D:\Project-17\shoper\shoper\bin\System.Web.WebPages.xml
+D:\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.xml
+D:\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.xml
+D:\Project-17\shoper\shoper\bin\Newtonsoft.Json.xml
+D:\Project-17\shoper\shoper\bin\Antlr3.Runtime.pdb
+D:\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CoreCompileInputs.cache
+D:\Project-17\shoper\shoper\obj\Debug\shoper.dll
+D:\Project-17\shoper\shoper\obj\Debug\shoper.pdb
+D:\Project-17\shoper\shoper\bin\EntityFramework.dll
+D:\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.dll
+D:\Project-17\shoper\shoper\bin\EntityFramework.xml
+D:\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.xml
+D:\Project-17\shoper\shoper\bin\CommandLine.dll
+D:\Project-17\shoper\shoper\bin\CommandLine.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\shoper.dll.config
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\shoper.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\shoper.pdb
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\csc.exe
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\csc.exe.config
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\csc.rsp
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\csi.exe
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\csi.exe.config
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\csi.rsp
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.Managed.Core.targets
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.AppContext.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Collections.Immutable.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Console.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.IO.Compression.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Reflection.Metadata.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.AccessControl.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Claims.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Principal.Windows.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.ValueTuple.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\vbc.exe
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\vbc.exe.config
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\vbc.rsp
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe.config
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\Antlr3.Runtime.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\CommandLine.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\EntityFramework.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\Microsoft.Web.Infrastructure.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\Newtonsoft.Json.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.Helpers.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.Mvc.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.Optimization.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.Razor.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\WebGrease.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\CommandLine.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\EntityFramework.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.Helpers.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.Mvc.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.Optimization.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.Razor.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\Newtonsoft.Json.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\Antlr3.Runtime.pdb
+D:\project education\C#\Project-17\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project education\C#\Project-17\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CoreCompileInputs.cache
+D:\project education\C#\Project-17\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CopyComplete
+D:\project education\C#\Project-17\Project-17\shoper\shoper\obj\Debug\shoper.dll
+D:\project education\C#\Project-17\Project-17\shoper\shoper\obj\Debug\shoper.pdb
+D:\project education\C#\Project-17\Project-17\shoper\shoper\obj\Debug\shoper.csprojAssemblyReference.cache
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\shoper.dll.config
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\shoper.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\shoper.pdb
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\csc.exe
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\csc.exe.config
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\csc.rsp
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\csi.exe
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\csi.exe.config
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\csi.rsp
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.Managed.Core.targets
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.AppContext.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Collections.Immutable.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Console.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.IO.Compression.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Reflection.Metadata.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.AccessControl.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Claims.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Security.Principal.Windows.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.ValueTuple.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\vbc.exe
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\vbc.exe.config
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\vbc.rsp
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe.config
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\Antlr3.Runtime.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\CommandLine.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\EntityFramework.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\Microsoft.Web.Infrastructure.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\Newtonsoft.Json.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.Helpers.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.Mvc.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.Optimization.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.Razor.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\WebGrease.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\CommandLine.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\EntityFramework.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.Helpers.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.Mvc.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.Optimization.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.Razor.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\Newtonsoft.Json.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\Antlr3.Runtime.pdb
+D:\project education\backup\Project-17\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project education\backup\Project-17\Project-17\shoper\shoper\obj\Debug\shoper.csprojAssemblyReference.cache
+D:\project education\backup\Project-17\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CoreCompileInputs.cache
+D:\project education\backup\Project-17\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CopyComplete
+D:\project education\backup\Project-17\Project-17\shoper\shoper\obj\Debug\shoper.dll
+D:\project education\backup\Project-17\Project-17\shoper\shoper\obj\Debug\shoper.pdb
+D:\Pr17\Project-17\shoper\shoper\bin\shoper.dll.config
+D:\Pr17\Project-17\shoper\shoper\bin\shoper.dll
+D:\Pr17\Project-17\shoper\shoper\bin\shoper.pdb
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\csc.exe
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\csc.exe.config
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\csc.rsp
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\csi.exe
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\csi.exe.config
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\csi.rsp
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.AppContext.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Collections.Immutable.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Console.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.IO.Compression.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Security.AccessControl.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Security.Claims.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.ValueTuple.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\vbc.exe
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\vbc.exe.config
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\vbc.rsp
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe
+D:\Pr17\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe.config
+D:\Pr17\Project-17\shoper\shoper\bin\Antlr3.Runtime.dll
+D:\Pr17\Project-17\shoper\shoper\bin\CommandLine.dll
+D:\Pr17\Project-17\shoper\shoper\bin\EntityFramework.dll
+D:\Pr17\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.dll
+D:\Pr17\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pr17\Project-17\shoper\shoper\bin\Microsoft.Web.Infrastructure.dll
+D:\Pr17\Project-17\shoper\shoper\bin\Newtonsoft.Json.dll
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.Helpers.dll
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.Mvc.dll
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.Optimization.dll
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.Razor.dll
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.dll
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.WebPages.dll
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.dll
+D:\Pr17\Project-17\shoper\shoper\bin\WebGrease.dll
+D:\Pr17\Project-17\shoper\shoper\bin\CommandLine.xml
+D:\Pr17\Project-17\shoper\shoper\bin\EntityFramework.xml
+D:\Pr17\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.xml
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.Helpers.xml
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.Mvc.xml
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.Optimization.xml
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.Razor.xml
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.WebPages.xml
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.xml
+D:\Pr17\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.xml
+D:\Pr17\Project-17\shoper\shoper\bin\Newtonsoft.Json.xml
+D:\Pr17\Project-17\shoper\shoper\bin\Antlr3.Runtime.pdb
+D:\Pr17\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pr17\Project-17\shoper\shoper\obj\Debug\shoper.csprojAssemblyReference.cache
+D:\Pr17\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CoreCompileInputs.cache
+D:\Pr17\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CopyComplete
+D:\Pr17\Project-17\shoper\shoper\obj\Debug\shoper.dll
+D:\Pr17\Project-17\shoper\shoper\obj\Debug\shoper.pdb
+D:\project education\Project-17\shoper\shoper\bin\shoper.dll.config
+D:\project education\Project-17\shoper\shoper\bin\shoper.dll
+D:\project education\Project-17\shoper\shoper\bin\shoper.pdb
+D:\project education\Project-17\shoper\shoper\bin\roslyn\csc.exe
+D:\project education\Project-17\shoper\shoper\bin\roslyn\csc.exe.config
+D:\project education\Project-17\shoper\shoper\bin\roslyn\csc.rsp
+D:\project education\Project-17\shoper\shoper\bin\roslyn\csi.exe
+D:\project education\Project-17\shoper\shoper\bin\roslyn\csi.exe.config
+D:\project education\Project-17\shoper\shoper\bin\roslyn\csi.rsp
+D:\project education\Project-17\shoper\shoper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project education\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\Microsoft.Managed.Core.targets
+D:\project education\Project-17\shoper\shoper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.AppContext.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Collections.Immutable.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Console.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.IO.Compression.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Reflection.Metadata.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Security.AccessControl.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Security.Claims.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Security.Principal.Windows.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.ValueTuple.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project education\Project-17\shoper\shoper\bin\roslyn\vbc.exe
+D:\project education\Project-17\shoper\shoper\bin\roslyn\vbc.exe.config
+D:\project education\Project-17\shoper\shoper\bin\roslyn\vbc.rsp
+D:\project education\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe
+D:\project education\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe.config
+D:\project education\Project-17\shoper\shoper\bin\Antlr3.Runtime.dll
+D:\project education\Project-17\shoper\shoper\bin\CommandLine.dll
+D:\project education\Project-17\shoper\shoper\bin\EntityFramework.dll
+D:\project education\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.dll
+D:\project education\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project education\Project-17\shoper\shoper\bin\Microsoft.Web.Infrastructure.dll
+D:\project education\Project-17\shoper\shoper\bin\Newtonsoft.Json.dll
+D:\project education\Project-17\shoper\shoper\bin\System.Web.Helpers.dll
+D:\project education\Project-17\shoper\shoper\bin\System.Web.Mvc.dll
+D:\project education\Project-17\shoper\shoper\bin\System.Web.Optimization.dll
+D:\project education\Project-17\shoper\shoper\bin\System.Web.Razor.dll
+D:\project education\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.dll
+D:\project education\Project-17\shoper\shoper\bin\System.Web.WebPages.dll
+D:\project education\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.dll
+D:\project education\Project-17\shoper\shoper\bin\WebGrease.dll
+D:\project education\Project-17\shoper\shoper\bin\CommandLine.xml
+D:\project education\Project-17\shoper\shoper\bin\EntityFramework.xml
+D:\project education\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.xml
+D:\project education\Project-17\shoper\shoper\bin\System.Web.Helpers.xml
+D:\project education\Project-17\shoper\shoper\bin\System.Web.Mvc.xml
+D:\project education\Project-17\shoper\shoper\bin\System.Web.Optimization.xml
+D:\project education\Project-17\shoper\shoper\bin\System.Web.Razor.xml
+D:\project education\Project-17\shoper\shoper\bin\System.Web.WebPages.xml
+D:\project education\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.xml
+D:\project education\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.xml
+D:\project education\Project-17\shoper\shoper\bin\Newtonsoft.Json.xml
+D:\project education\Project-17\shoper\shoper\bin\Antlr3.Runtime.pdb
+D:\project education\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project education\Project-17\shoper\shoper\obj\Debug\shoper.csprojAssemblyReference.cache
+D:\project education\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CoreCompileInputs.cache
+D:\project education\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CopyComplete
+D:\project education\Project-17\shoper\shoper\obj\Debug\shoper.dll
+D:\project education\Project-17\shoper\shoper\obj\Debug\shoper.pdb
+D:\project education\C#\Project-17\shoper\shoper\bin\shoper.dll.config
+D:\project education\C#\Project-17\shoper\shoper\bin\shoper.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\shoper.pdb
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\csc.exe
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\csc.exe.config
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\csc.rsp
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\csi.exe
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\csi.exe.config
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\csi.rsp
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\Microsoft.Managed.Core.targets
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.AppContext.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Collections.Immutable.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Console.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.IO.Compression.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.IO.Pipes.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Reflection.Metadata.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Security.AccessControl.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Security.Claims.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Security.Principal.Windows.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.ValueTuple.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\vbc.exe
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\vbc.exe.config
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\vbc.rsp
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe
+D:\project education\C#\Project-17\shoper\shoper\bin\roslyn\VBCSCompiler.exe.config
+D:\project education\C#\Project-17\shoper\shoper\bin\Antlr3.Runtime.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\CommandLine.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\EntityFramework.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\Microsoft.Web.Infrastructure.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\Newtonsoft.Json.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.Helpers.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.Mvc.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.Optimization.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.Razor.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.WebPages.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\WebGrease.dll
+D:\project education\C#\Project-17\shoper\shoper\bin\CommandLine.xml
+D:\project education\C#\Project-17\shoper\shoper\bin\EntityFramework.xml
+D:\project education\C#\Project-17\shoper\shoper\bin\EntityFramework.SqlServer.xml
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.Helpers.xml
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.Mvc.xml
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.Optimization.xml
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.Razor.xml
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.WebPages.xml
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.WebPages.Deployment.xml
+D:\project education\C#\Project-17\shoper\shoper\bin\System.Web.WebPages.Razor.xml
+D:\project education\C#\Project-17\shoper\shoper\bin\Newtonsoft.Json.xml
+D:\project education\C#\Project-17\shoper\shoper\bin\Antlr3.Runtime.pdb
+D:\project education\C#\Project-17\shoper\shoper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project education\C#\Project-17\shoper\shoper\obj\Debug\shoper.csprojAssemblyReference.cache
+D:\project education\C#\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CoreCompileInputs.cache
+D:\project education\C#\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CopyComplete
+D:\project education\C#\Project-17\shoper\shoper\obj\Debug\shoper.dll
+D:\project education\C#\Project-17\shoper\shoper\obj\Debug\shoper.pdb
+D:\Project-17\shoper\shoper\obj\Debug\shoper.csprojAssemblyReference.cache
+D:\Project-17\shoper\shoper\obj\Debug\shoper.csproj.CopyComplete

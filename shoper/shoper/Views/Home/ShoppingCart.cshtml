@@ -1,0 +1,79 @@
+﻿    @model List<shoper.Models.Cart>
+    <div class="shopping-cart">
+        <section class="header_text_edit">
+            <h4><span>My Cart</span></h4>
+        </section>
+        @if (Model != null && Model.Count > 0)
+        {
+        <form action="@Url.Action("Checkout", "Home")" method="post" onsubmit="return validateCheckboxes()">
+            <input type="hidden" name="customerID" value="@ViewBag.CustomerID" />
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Name</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                        <th>Total</th>
+                        <th>Edit</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="img-cart"><img class="" alt="" src="~/Content/themes/images/ladies/@(item.ProductID.ToString() + ".jpg")"></td>
+                            <td>@item.Product.ProductName</td>
+                            <td>@item.Quantity</td>
+                            <td>$@item.Product.Price</td>
+                            <td>$@(item.Quantity * item.Product.Price)</td>
+                            <td>
+                                <ul class="Control-function-edit">
+                                    <li class="add-product"><a href="@Url.Action("AddProduct", "Home", new { productId = item.ProductID })">+</a></li>
+                                    <li class="Drop-product"><a href="@Url.Action("DropProduct", "Home", new { productId = item.ProductID })">-</a></li>
+                                    <li class="remove-product"><a href="@Url.Action("RemoveProduct", "Home", new { productId = item.ProductID })">Remove</a></li>
+                                    <li><input type="checkbox" name="selectedProducts" value="@item.ProductID"></li>
+                                </ul>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <p class="buttons buttons-checkout-select">
+                <button class="btn" type="button" onclick="toggleCheckboxes(this)">Select All</button>
+                <button class="btn btn-inverse" type="submit" id="checkout">Checkout</button>
+            </p>
+        </form>
+        }
+        else
+        {
+            <p>Your cart is empty.</p>
+        }
+    </div>
+
+    <script>
+        function toggleCheckboxes(button) {
+            var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            var selectAll = button.textContent === "Select All";
+            checkboxes.forEach(function (checkbox) {
+                checkbox.checked = selectAll;
+            });
+            button.textContent = selectAll ? "Deselect All" : "Select All";
+        }
+
+        function validateCheckboxes() {
+            var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            var atLeastOneChecked = false;
+            for (var i = 0; i < checkboxes.length; i++) {
+                if (checkboxes[i].checked) {
+                    atLeastOneChecked = true;
+                    break;
+                }
+            }
+            if (!atLeastOneChecked) {
+                alert("You have not selected a product to pay!");
+                return false;
+            }
+            return true;
+        }
+    </script>

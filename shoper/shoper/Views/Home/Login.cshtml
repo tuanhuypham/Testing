@@ -1,0 +1,58 @@
+﻿<div class="login-register-container container-fluid">
+    <div class="control-form-login">
+        <div class="login-form">
+            <form class="form-login" method="post" action="/Home/Login">
+                <div class="title-login-form">
+                    <h2>Log In</h2>
+                </div>
+                <input type="text" placeholder="Enter your username" id="Username" name="username">
+                <input type="password" placeholder="Enter your password" id="Password" name="password">
+                <div class="error-message">
+                    @ViewBag.Message
+                </div>
+                <button type="submit" class="submit-button">Log In</button>
+                <div class="checkbox-container">
+                    <input type="checkbox" id="RememberMe" name="RememberMe" />
+                    <label for="RememberMe">Remember Me</label>
+                    <a href="#" id="forgetpassword">Forget Password</a>
+                </div>
+            </form>
+            <div class="Description-Register">
+                <p>Do not have an account ?</p>
+                <a href="#" id="registerLink">Register</a>
+            </div>
+        </div>
+
+        <div class="register-form hidden">
+            <form class="form-register" action="/Home/Register" method="post">
+                <div class="title-register-form">
+                    <h3>Register</h3>
+                </div>
+                <input type="text" placeholder=" Enter your full name" name="FullName" required>
+                <div class="gender-selection">
+                    <div class="gender-option">
+                        <input type="radio" id="sex" name="Sex" value="Male" required>
+                        <label for="male">Male</label>
+                    </div>
+                    <div class="gender-option">
+                        <input type="radio" id="sex" name="Sex" value="Female" required>
+                        <label for="female">Female</label>
+                    </div>
+                </div>
+                <input type="email" placeholder="Enter your email address" name="Email" required>
+                <input type="tel" id="phone" placeholder="Enter your phone number" name="Phone">
+                <input type="text" placeholder="Enter your username" name="Username" required>
+                <input type="password" placeholder="Enter your password" name="Password" required>
+                <button type="submit" class="submit-button">Register</button>
+            </form>
+            <div class="Description-LogIn">
+                <p>Do you already have an account ?</p>
+                <a href="#" id="loginLink">Log In</a>
+            </div>
+        </div>
+
+        <div class="login-form">
+            <img src="https://png.pngtree.com/png-clipart/20231020/original/pngtree-empty-orange-shopping-carts-or-basket-isolated-concept-3d-illustration-or-png-image_13380695.png" alt="" />
+        </div>
+    </div>
+</div>
